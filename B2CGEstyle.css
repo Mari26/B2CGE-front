@@ -1,0 +1,23 @@
+.form-check-input:checked {
+    background-color: #198754 !important;
+}
+
+#flexSwitchCheckChecked {
+    width: 60px !important;
+}
+
+.Success {
+    color: #198754;
+}
+
+#height {
+    height: 20px !important;
+}
+
+#color {
+    background-color: #d63384;
+}
+
+#bcolor {
+    background-color: rgb(51, 193, 236);
+}
